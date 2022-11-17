@@ -5,7 +5,7 @@
 PROJETO BATUCARTE 
 
 
-É um projeto social desenvolvido em Lorena-SP criado por Magno Edras em 2009 , sem lucros financeiros, principal intuito do projeto é a formação de um grupos de jovens/adolescentes que utilizam instrumentos de escola de samba, criando ritmos como funk, rap, rock, pagode, hip hop e o próprio samba. Realizam diversas apresentações na cidade de Lorena e na região.
+É um projeto social desenvolvido em Lorena-SP e sua sede é na escola Arnolfo Azevedo, criado por Magno Edras em 2009 , sem lucros financeiros, principal intuito do projeto é a formação de um grupos de jovens/adolescentes que utilizam instrumentos de escola de samba, criando ritmos como funk, rap, rock, pagode, hip hop e o próprio samba. Realizam diversas apresentações na cidade de Lorena e na região.
 
 
 1) Qual o nome do produto/serviço?
